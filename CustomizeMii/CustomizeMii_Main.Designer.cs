@@ -357,7 +357,13 @@ namespace CustomizeMii
             "WADder Base 2",
             "WADder Base 3",
             "UniiLoader",
-            "Backup Channel"});
+            "Backup Channel",
+			"SifJar Base WAD 1",
+			"SifJar Base WAD 2",
+			"SifJar Base WAD 3",
+			"SifJar Base WAD 4",
+			"SifJar Base WAD 5",
+			"SifJar Base WAD 6"});
             this.lbxBaseWads.Location = new System.Drawing.Point(11, 70);
             this.lbxBaseWads.Name = "lbxBaseWads";
             this.lbxBaseWads.Size = new System.Drawing.Size(343, 95);
